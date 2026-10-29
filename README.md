@@ -26,5 +26,5 @@ Fotos ficam em `public/images/` (`nome.webp` e `nome@2x.webp`); o logo em `publi
 - Comodidades (armários, chuveiros, vestiários, Wi-Fi) e modalidades: vieram do perfil público no Wellhub.
 - Fotos em maior resolução (as públicas têm só 639 px de largura) e, se houver, vídeos/reels da academia.
 - Nota do Wellhub (4,91 com 181 avaliações em 29/10/2026): atualizar em `wellhubRating`.
-- Domínio final: trocar `/og-image.jpg` em `index.html` por URL absoluta.
+- Domínio final: hoje `og:image` aponta para `https://bunker-gym-proto.vercel.app/og-image.jpg`; trocar pelo domínio definitivo em `index.html`.
 - Remover do rodapé a linha "Protótipo de site por MJStudios" se não for desejada.
